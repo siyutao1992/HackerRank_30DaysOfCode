@@ -1,2 +1,4 @@
 # HackerRank_30DaysOfCode
-Learning Java with 30 days of code on HackerRank
+This project is for learning Java with 30 days of code on HackerRank.
+
+Completed codes for tutorial problems are stored in this repo.
